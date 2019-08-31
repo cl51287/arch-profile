@@ -1,0 +1,12 @@
+[http]
+	proxy = socks5://127.0.0.1:1080
+[https]
+	proxy = socks5://127.0.0.1:1080
+[alias]
+	st = status
+	ct = commit
+	ps = push
+	pl = pull
+[user]
+	email = cl51287@qq.com
+	name = cl51287
