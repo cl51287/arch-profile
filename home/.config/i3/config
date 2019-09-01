@@ -193,7 +193,7 @@ bindsym $mod+Ctrl+r mode "resize"
 # finds out, if available)
 bar {
         status_command i3status
-	font pango:monaco , Icons 12
+	font pango:fira code , Icons 12
 }
 exec feh --randomize --bg-fill ~/pictures
 exec compton -b --config ~/.config/compton/compton.conf
